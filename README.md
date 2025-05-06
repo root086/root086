@@ -55,8 +55,9 @@
 ### 🔥 My GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasvittor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
 </div>
+
 
 ---
 
