@@ -52,14 +52,6 @@
 
 ---
 
-### 🔥 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvittor&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
-</div>
-
-
----
 
 ### 🎮 Contribution Graph
 
