@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  Currently transitioning into the field of cybersecurity, combining technical skills with a strong sense of purpose.
+  I'm Lucas, a Systems Analyst with experience in technical support, process automation and IT infrastructure, seeking transition and specialization in Information Security. I work with diagnosis and problem solving, network configuration, access control and maintenance of corporate environments. I have an analytical vision, focus on failure prevention and a passion for learning and applying good security practices.
 </p>
 
 
