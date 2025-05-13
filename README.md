@@ -4,9 +4,6 @@
 
 
 
-
-### <h4 align="center">Developer, Evangelizer & Cybersecurity Enthusiast 💻✝️</h4>
-
 ---
 
 ### 👨‍💻 About Me
