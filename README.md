@@ -50,11 +50,18 @@
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="logo do typescript"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="logo do nextjs"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="logo do html"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="logo do css"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="logo do js"  />
+  <img width="12" />
 </div>
 
 ---
 
-### 🎮 Gráfico de Contribuições
+### 🎮 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasvittor/lucasvittor/output/pacman-contribution-graph-dark.svg">
