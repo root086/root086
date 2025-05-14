@@ -12,7 +12,7 @@
 
 📄 Foco em ITIL 4, LGPD, ISO 27001 e análise de logs  
 
-🧠 Entre um bug e outro, ativo o modo dev... ou corro pro fut  
+🧠 Quando o tédio bate, ativo o modo dev... ou corro pro fut  
 
 📚 Estudando Segurança Cibernética  
 
