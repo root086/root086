@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-💼 Assistente de T.I na Unimed, em transição para a área de Segurança da Informação  
+💼 Em transição para a área de Segurança da Informação  
 
 🛠️ Experiência com solução de problemas, automações em Python, redes e infraestrutura  
 
