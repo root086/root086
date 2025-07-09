@@ -12,18 +12,17 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline-block">
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" />
+  <img src="https://miro.medium.com/v2/resize:fit:1024/0*cWuloAut3O4oyAQC" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" />
+  <img src="https://miro.medium.com/v2/resize:fit:960/1*sOhbhWnnmBx7TxHddLPW0Q.png" height="40" />
 </div>
 
 ## 🎮 Contribuições
@@ -37,6 +36,6 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvittor)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasvittor)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucss.vittor)
 
 
