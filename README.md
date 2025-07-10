@@ -13,7 +13,7 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasvittor)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucss.vittor)
 
-## Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 <div style="display: inline-block">
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
@@ -29,7 +29,7 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
   <img src="https://miro.medium.com/v2/resize:fit:960/1*sOhbhWnnmBx7TxHddLPW0Q.png" height="40" />
 </div>
 
-## Contribuições
+# Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasvittor/lucasvittor/output/pacman-contribution-graph-dark.svg">
