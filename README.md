@@ -1,4 +1,4 @@
-<img align="right"  src="https://lucasvitor.vercel.app/assets/about-BkOp67ef.png" />
+<img align="right"  src="https://lucasvitor.vercel.app/img/favicon.png" />
 
 # Sobre Mim
 
