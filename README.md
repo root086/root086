@@ -1,6 +1,5 @@
 <img align="right" src="linux.png" width="400" alt="Logo Linux"/>
 
-# Sobre Mim
 
 Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área da **Segurança da Informação** com foco em Purple Team, explorar vulnerabilidades, criar automações e brincar com infraestrutura.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
@@ -21,9 +20,6 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
 </a>
 </p>
 
-
-# Tecnologias e Ferramentas
-
 <div style="display: inline-block">
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
@@ -39,8 +35,7 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
 </div>
 
 
-# Contribuições
-
+# 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasvittor/lucasvittor/output/pacman-contribution-graph-dark.svg">
   <img alt="Gráfico de Contribuição estilo Pacman" src="https://raw.githubusercontent.com/lucasvittor/lucasvittor/output/pacman-contribution-graph.svg">
