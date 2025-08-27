@@ -1,4 +1,4 @@
-<img align="right" src="photo.png" width="400" alt="Lucas Vitor logo"/>
+<img align="right" src="linux.png" width="400" alt="Logo Linux"/>
 
 # Sobre Mim
 
