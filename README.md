@@ -1,4 +1,4 @@
-<img align="right"  src="https://lucasvitor.vercel.app/img/favicon.png" />
+<img align="right" src="photo.png" width="400" alt="Lucas Vitor logo"/>
 
 # Sobre Mim
 
@@ -9,9 +9,18 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
 - 🧠 No tempo livre? Programo alguma ideia aleatória, ou corro pro fut... Talvez um Fifa
 - 🎮 Viciado em Hacknet! Quem diria que hackear (no jogo!) seria tão divertido?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasvittor)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasvittor)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucss.vittor)
+<p>
+  <a href="https://www.linkedin.com/in/lucasvittor">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lucss.vittor">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+<a href="https://www.lucasvitor.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+</p>
+
 
 # Tecnologias e Ferramentas
 
@@ -29,12 +38,10 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, estou em transição para a área 
   <img src="https://miro.medium.com/v2/resize:fit:960/1*sOhbhWnnmBx7TxHddLPW0Q.png" height="40" />
 </div>
 
+
 # Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasvittor/lucasvittor/output/pacman-contribution-graph-dark.svg">
   <img alt="Gráfico de Contribuição estilo Pacman" src="https://raw.githubusercontent.com/lucasvittor/lucasvittor/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
