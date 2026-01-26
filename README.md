@@ -24,3 +24,11 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, focado em **DevOps** e **Cloud Inf
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
 </div>
+
+<div align="center">
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=root086&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10"
+  width=100%"
+/>
+
+</div>
