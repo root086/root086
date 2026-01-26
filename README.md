@@ -30,7 +30,7 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, focado em **DevOps** e **Cloud Inf
 <div style="display: inline-block">
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=root086&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10"
-  width=580px"
+  width=100%"
 />
 
 </div>
