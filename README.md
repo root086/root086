@@ -1,5 +1,4 @@
-<img align="right" src="linux.png" width="400" alt="Logo Linux"/>
-
+<img align="right" src="/profile-pic.png" width="400" alt="Logo Linux"/>
 
 Amante Da **EUCARISTIA** e da **TECNOLOGIA**, focado em **DevOps** e **Cloud Infrastructure**, unindo a paixão por automação com a visão de **Segurança da Informação**. Meu objetivo é provisionar infraestrutura ágil, segura e resiliente.
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
