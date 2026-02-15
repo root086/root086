@@ -12,20 +12,26 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, focado em **DevOps** e **Cloud Inf
   <img src="https://skillicons.dev/icons?i=linux" height="40" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" />
-   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
   <img src="https://skillicons.dev/icons?i=grafana" height="40" />
   <img src="https://skillicons.dev/icons?i=terraform" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" />
-   <img src="https://skillicons.dev/icons?i=postgresql" height="40" />
-   <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   <img src="https://skillicons.dev/icons?i=php" height="40" />
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
 </div>
 
-![GitHub Stats](https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=stats)
+<br><br>
 
-![GitHub Languages](https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=languages)
+<p align="center">
+  <img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=stats" width="48%" />
+  
+</p>
+<p align="center">
+  <img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=languages" width="48%" />
+</p>
 
 ![GitHub Commits](https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=commits&days=30)
