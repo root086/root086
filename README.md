@@ -23,3 +23,9 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, focado em **DevOps** e **Cloud Inf
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
 </div>
+
+![GitHub Stats](https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=stats)
+
+![GitHub Languages](https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=languages)
+
+![GitHub Commits](https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=commits&days=30)
