@@ -31,7 +31,9 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, focado em **DevOps** e **Cloud Inf
   
 </p>
 <p align="center">
-  <img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=languages" width="48%" />
+  <img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=languages" width="58%" />
 </p>
 
-![GitHub Commits](https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=commits&days=30)
+<p align="center">
+<img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=commits&days=30" width="68%"/>
+</p>
