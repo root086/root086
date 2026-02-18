@@ -24,16 +24,3 @@ Amante Da **EUCARISTIA** e da **TECNOLOGIA**, focado em **DevOps** e **Cloud Inf
   <img src="https://skillicons.dev/icons?i=bash" height="40" />
 </div>
 
-<br><br>
-
-<p align="center">
-  <img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=stats" width="48%" />
-  
-</p>
-<p align="center">
-  <img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=languages" width="58%" />
-</p>
-
-<p align="center">
-<img src="https://githubstats.com.br/api/stats?username=root086&theme=merko&showBorder=true&language=pt&type=commits&days=30" width="68%"/>
-</p>
